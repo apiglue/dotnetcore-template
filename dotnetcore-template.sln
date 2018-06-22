@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore-template", "dotnetcore-template.csproj", "{11A6B46D-0C87-445F-B44D-6B6383076DA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api", "api/api.csproj", "{11A6B46D-0C87-445F-B44D-6B6383076DA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
